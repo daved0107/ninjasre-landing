@@ -1,2 +1,0 @@
-# ninjasre-landing
-mysite-myblog
